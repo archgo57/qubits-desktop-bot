@@ -1,10 +1,7 @@
-{
-    "version": "15",
+[
+  {
     "title": "New Feature Released!",
-    "description": [
-        "Improved performance",
-        "Bug fixes",
-        "New dashboard UI"
-    ],
+    "description": "Try out the latest feature update.",
     "url": "https://www.youtube.com/watch?v=5zuF4Ys1eAw"
-}
+  }
+]

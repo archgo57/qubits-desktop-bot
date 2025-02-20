@@ -1,9 +1,10 @@
 {
-  "title": "New Video Available",
-  "description": [
-    "Exciting new updates!",
-    "Check out our latest content."
-  ],
-  "url": "https://www.youtube.com/watch?v=5zuF4Ys1eAw",
-  "version": 6
+    "version": "7",
+    "title": "New Feature Released!",
+    "description": [
+        "Improved performance",
+        "Bug fixes",
+        "New dashboard UI"
+    ],
+    "url": "https://www.youtube.com/watch?v=5zuF4Ys1eAw"
 }

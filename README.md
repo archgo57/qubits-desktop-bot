@@ -1,4 +1,4 @@
-# 🔔 GAIIN QUBITS - RELEASE - trial heloow 333
+# 🔔 GAIIN QUBITS - RELEASE - trial heloow 444
 
 ## 🎯 AI in 2024
 ✅  Generative AI is transforming industries with text, image, and code generation.  

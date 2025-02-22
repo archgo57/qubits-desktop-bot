@@ -1,4 +1,4 @@
-# 🔔 GAIIN QUBITS - RELEASE - 22-02-2025 - i
+# 🔔 GAIIN QUBITS - RELEASE - 22-02-2025 - jghsd
 
 ## 🎯 AI in 2024
 ✅  Generative AI is transforming industries with text, image, and code generation.  
